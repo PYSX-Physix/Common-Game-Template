@@ -1,5 +1,5 @@
 # Common-Game-Template
-An Unreal Engine game template that is built from the [Common Game plugin](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/CommonGame).
+An Unreal Engine game template that is built from the [Common Game plugin](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/CommonGame). This project is open source and use this template how ever you want.
 
 
 # Roadmap
