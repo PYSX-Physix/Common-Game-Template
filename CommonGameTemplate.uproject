@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{E08C61AE-407B-F46F-5566-CDB871C3AEC9}",
+	"EngineAssociation": "{D9A42B7F-4F94-3F6C-76C8-DAB89FCB24CF}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -24,6 +24,18 @@
 			]
 		},
 		{
+			"Name": "CommonGame",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
 			"Name": "Gauntlet",
 			"Enabled": true
 		},
@@ -33,10 +45,6 @@
 		},
 		{
 			"Name": "AsyncMixin",
-			"Enabled": true
-		},
-		{
-			"Name": "UIExtension",
 			"Enabled": true
 		},
 		{
@@ -50,6 +58,30 @@
 		{
 			"Name": "DTLSHandlerComponent",
 			"Enabled": true
+		},
+		{
+			"Name": "UIExtension",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ReplicationGraph",
+			"Enabled": true
+		},
+		{
+			"Name": "SignificanceManager",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "ControlFlows",
+      "Enabled": true
 		}
 	]
 }

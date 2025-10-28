@@ -33,6 +33,7 @@ public class CommonGameTemplate : ModuleRules
                 "AIModule",
                 "ModularGameplay",
                 "ModularGameplayActors",
+                "ModularGameplayExperiences",
                 "DataRegistry",
                 "ReplicationGraph",
                 "GameFeatures",

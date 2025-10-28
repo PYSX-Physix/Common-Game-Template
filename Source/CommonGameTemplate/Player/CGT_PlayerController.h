@@ -3,14 +3,14 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "CommonPlayerController.h"
+#include "ModularPlayerController.h"
 #include "CGT_PlayerController.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class COMMONGAMETEMPLATE_API ACGT_PlayerController : public ACommonPlayerController
+class COMMONGAMETEMPLATE_API ACGT_PlayerController : public AModularPlayerController
 {
 	GENERATED_BODY()
 	

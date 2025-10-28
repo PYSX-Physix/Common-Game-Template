@@ -9,7 +9,8 @@ public class CommonGameTemplateEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;
+        IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 
-		ExtraModuleNames.AddRange( new string[] { "CommonGameTemplate" } );
+        ExtraModuleNames.AddRange( new string[] { "CommonGameTemplate", "CommonGameTemplateEditor" } );
 	}
 }
