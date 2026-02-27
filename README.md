@@ -1,12 +1,8 @@
 # Common Game Template
-An Unreal Engine game template that is built from the [Common Game plugin](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/CommonGame). This project is open source and use this template how ever you want.
-
+An Unreal Engine game template that is built from the [Common Game plugin](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/CommonGame). This project is open source and use this template how ever you want. If you ever want to rename this project I'd recommend [Renom](https://github.com/UnrealisticDev/Renom), it renames your projects even if the project is C++ or blueprint only.
 
 # Roadmap
-
-Make sure to expect updates on this project. It is going to be expaneded with [GameSettings](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/GameSettings), [CommonUser](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/CommonUser), and [GameSubtitles](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/GameSubtitles). This project is to provide a clean template that uses the plugin from the [Lyra Starter Game](https://dev.epicgames.com/community/learning/paths/Z4/lyra-starter-game).
-
+Make sure to expect updates on this project. It is going to be expaneded with [GameSettings](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/GameSettings), [CommonUser](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/CommonUser), and [GameSubtitles](https://github.com/EpicGames/UnrealEngine/tree/release/Samples/Games/Lyra/Plugins/GameSubtitles). This project is to provide a clean template that uses the plugins from the [Lyra Starter Game](https://dev.epicgames.com/community/learning/paths/Z4/lyra-starter-game) project.
 
 # Examples
-
 This template will have the UI set up along with an example widget that is shown when beginning the PIE session. It will also use the [ModularGameplayExperiences](https://github.com/chronicler-software/ModularGameplayExperiences) plugin for loading widgets and more.
